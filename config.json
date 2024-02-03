@@ -1,0 +1,12 @@
+{
+    "Bot": {
+        "Token": "MTIwMzM0NDE3MzEyNjY1NjA1MA.GfPEbN.VWFjcGprReEd8sPm9aD4Bw5T6nTCsgxJiWM8ck",
+        "Prefix": ".",
+        "GuildID": "1183534775865192529",
+        "VoiceChannelID": "1203123010840563783",
+        "MongoURL": "mongodb+srv://fathz1234:fathz1234@cluster0.y3lpk5r.mongodb.net/",
+        "OwnersID": ["1152646035701772398"],
+        "Activity": "Fathz ❤️ Ceza",
+        "Status": "dnd"
+    }
+}
